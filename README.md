@@ -42,4 +42,34 @@ The result must be formatted up to the second digit after the decimal point.
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/98bf12e2-bb5f-45e2-9cf0-a2d44fff7bd3)
 
+03.Problem: Flowers Shop
+A flowers shop offers 3 types of flowers: chrysanthemums, roses and tulips. The prices depend on 
+the season.
+Season Chrysanthemums Roses Tulips 
+spring / summer 2.00 USD/pc 4.10 USD/pc 2.50 USD/pc
+autumn / winter 3.75 USD/pc 4.50 USD/pc 4.15 USD/pc
+On holidays, prices of all flowers are increased by 15%. The following discounts are offered:
+• For purchasing more than 7 tulips in spring – 5% of the price of the whole bouquet.
+• For purchasing 10 or more roses in winter – 10% of the price of the whole bouquet.
+• For purchasing more than 20 flowers in total in any season – 20% of the price of the whole 
+bouquet.
+Discounts are made in the above described order and can be combined! All discounts are valid after 
+increasing of the price on a holiday!
+The price for arranging a bouquet is always 2 USD. Write a program that calculates the price of a 
+bouquet.
+Input Data
+The input is read from the console and contains exactly 5 lines:
+• The first line holds the number of purchased chrysanthemums – an integer in range [0 … 200].
+• The second line holds the number of purchased roses – an integer within the range [0 … 200].
+• The third line holds the number of purchased tulips – an integer within the range [0 … 200].
+• The fourth line indicates the season – [Spring, Summer, Autumn, Winter].
+• The fifth line specifies if the day is a holiday – [Y = yes / N = no].
+Output Data
+Print on the console 1 number – the price of flowers, formatted up to the second digit after the 
+decimal point.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/ad280eda-7ebb-43a3-931e-7cb22555dcf9)
+![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/ebaccae6-fa38-41ce-afd5-239871414bf5)
+
+
 
