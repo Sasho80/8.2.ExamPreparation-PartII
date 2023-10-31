@@ -71,5 +71,29 @@ Sample Input and Output
 ![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/ad280eda-7ebb-43a3-931e-7cb22555dcf9)
 ![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/ebaccae6-fa38-41ce-afd5-239871414bf5)
 
+04.Problem: Grades
+Write a program that calculates statistics for grades in an exam. At the beginning, the program reads 
+the number of students who attended the exam and for each student – their grade. At the end, the 
+program must print the percentage of students that have grades between 2.00 and 2.99, between 
+3.00 and 3.99, between 4.00 and 4.99, 5.00 or more, as well as the average grade of the exam.
+Note: we use the Bulgarian grading system, where the grade scale starts from 2.00 (Fail) and ends at 
+6.00 (Excellent): https://en.wikipedia.org/wiki/Grading_systems_by_country#Bulgaria.
+Input Data
+Read from the console a sequence of numbers, each on a separate line:
+• On the first line – the number of students who attended the exam – an integer within the range 
+[1 … 1000].
+• For each individual student on a separate line – the grade on the exam – a real number within 
+the range [2.00 … 6.00].
+Output Data
+Print on the console 5 lines that hold the following information:
+• "Top students: {percentage of students with grade of 5.00 or more}%".
+• "Between 4.00 and 4.99: {between 4.00 and 4.99 included}%".
+• "Between 3.00 and 3.99: {between 3.00 and 3.99 included}%".
+• "Fail: {less than 3.00}%".
+• "Average: {average grade}".
+The results must be formatted up to the second digit after the decimal point.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/5bad4a95-89c9-4ab7-b505-c9242ff5eacf)
+
 
 
