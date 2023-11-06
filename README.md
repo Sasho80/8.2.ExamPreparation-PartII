@@ -95,5 +95,22 @@ The results must be formatted up to the second digit after the decimal point.
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/5bad4a95-89c9-4ab7-b505-c9242ff5eacf)
 
+05.Problem: Christmas Hat
+Write a program that reads from the console an integer n and draws a Christmas hat with width of 4 
+* n + 1 columns and height of 2 * n + 5 rows, as in the examples below.
+Input Data
+The input is read from the console – an integer n within the range [3 … 100].
+Output Data
+Print on the console a Christmas hat, exactly like in the examples.
+Sample Input and Output
+Problem: Christmas Hat
+Write a program that reads from the console an integer n and draws a Christmas hat with width of 4 
+* n + 1 columns and height of 2 * n + 5 rows, as in the examples below.
+Input Data
+The input is read from the console – an integer n within the range [3 … 100].
+Output Data
+Print on the console a Christmas hat, exactly like in the examples.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/ece43815-968b-4006-9d82-180f8096f4e9)
 
 
