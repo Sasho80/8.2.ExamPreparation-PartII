@@ -113,4 +113,18 @@ Print on the console a Christmas hat, exactly like in the examples.
 Sample Input and Output
 ![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/ece43815-968b-4006-9d82-180f8096f4e9)
 
+06.Problem: Letters Combination
+Write a program that prints on the console all combinations of 3 letters within a specified range, by 
+skipping the combinations containing certain letter. Finally, print the number of printed combinations.
+Sample Input and Output
+![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/afb18dfa-a35a-47ae-a01a-474062eadd43)
+![image](https://github.com/Sasho80/8.2.ExamPreparation-PartII/assets/7139995/d0bd9c4d-9b2b-4687-a697-17d1b3c1509b)
+Input Data
+The input is read from the console and contains exactly 3 lines:
+• A small letter from the English alphabet for a beginning of the range – between 'a' and 'z'.
+• A small English letter for the end of the range – between the first letter and 'z'.
+• A small English letter – from 'a' to 'z' – as the combinations containing this letter are skipped.
+Output Data
+Print on a single line all combinations corresponding to the requirements, followed by their number, 
+separated by a space.
 
